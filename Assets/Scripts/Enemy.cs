@@ -18,4 +18,5 @@ public class Enemy : MonoBehaviour
             Debug.Log("Player out of range, resume patrol");
         }
     }
+
 }
